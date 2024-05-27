@@ -1,0 +1,10 @@
+opencv-python
+pillow
+mediapipe
+pandas
+numpy
+openpyxl
+scikit-learn
+customtkinter
+XlsxWriter
+pyinstaller
