@@ -58,4 +58,4 @@ Tutorial Page:
 
 ![tutorial_page](https://github.com/adyamp107/InSign1/assets/137896283/d62a321d-6fd0-4c7e-afa4-c3841a9afb9c)
 
-Enjor:)
+Enjoy:)
